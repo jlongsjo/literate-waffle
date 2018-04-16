@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:05:22"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>VDI Request Form
+The new computer form will change as follows:
+1. A new option named VDI will be added to Select computer type
+2. When VDI is selected, the application suite question will be removed
+3. The following questions will be added
+  a. Please select a data center (options will be EDC and WDC)
+  b. Please select a use case (Standard, Toolkit, Developer)
+  c. Do you already have an RSA token? (Yes/No)
+  d. Do you need a client or will you be using your computer (Zero Client, Linux Client, Computer)
+  e. Business justification (multi-line text)
+
+Once submitted the workflow will go as follows
+1. Approval task to user's manager
+2. Approval task to VA - Virtualization - VDI group
+3. Task to assign RSA token (to user's Helpdesk)
+4. Task to add user to appropriate RSA security groups (to user's Helpdesk)
+5. Task for physical client setup (if selected) (to VA - End User Computing)
+6. Task for VDI Creation 
+7. Task for VDI Entitlement (including updating the cmdb owner info with the user's info)
+8. Email with documentation ,KB Articles, and links to requests for additional software to user
+</description><inserted/><name>JL/GP - STRY0013246 - VDI Request Form</name><origin_sys_id/><release_date/><remote_sys_id>4a2fafca4fc2b2c4037759dd0210c705</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:05:22</sys_created_on><sys_id>a31598c9db69db00695e9875db961978</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:05:22</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
