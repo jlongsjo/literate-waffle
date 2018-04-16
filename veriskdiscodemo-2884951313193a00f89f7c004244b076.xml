@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:03:49"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>Bug:  When an SCM change was copied the acceptance and prod date were prefilled from old change and start and end date were blank.  &#13;
+Fix: Cleared out the acceptance and prod dates to be filled in by user.&#13;
+&#13;
+Bug: TASKCOPY script used to copy all the number of tasks too in the new change, when SCM change is copied.  &#13;
+Fix:  Updated the script to comment out the function to copy tasks.  Tasks are created through workflow.&#13;
+&#13;
+Bug: No order validation between Start Date and Acceptance date&#13;
+Fix:  Added validation.&#13;
+&#13;
+Bug:  For SCM changes, no dates validation was done from the Service Portal view.&#13;
+Fix:  Updated script to validate dates in SCM change on Service Portal view.</description><inserted/><name>HV - Fix SCM date validation on copy change function</name><origin_sys_id/><release_date/><remote_sys_id>2884951313193a00f89f7c004244b076</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:03:49</sys_created_on><sys_id>b4c418c9db69db00695e9875db961957</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:03:49</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
