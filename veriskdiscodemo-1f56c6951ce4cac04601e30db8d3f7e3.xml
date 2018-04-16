@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:03:24"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>Hi Jason,&#13;
+ &#13;
+As per below, the 'Publication Request' form is being transferred to the 'Facilities Planning &amp; Support' division.&#13;
+ &#13;
+https://verisk.service-now.com/sd/form.do?sysparm_document_key=sc_cat_item,578c4950e9b6b100632930f8b22dd5c3&#13;
+ &#13;
+ &#13;
+Please update the form to read:&#13;
+·       Publications routed by  Facilities Planning &amp; Support Division.&#13;
+ &#13;
+In addition, modify the form's admin access and notifications to:&#13;
+ &#13;
+·       Greg Cassella and Pamela Congress&#13;
+ &#13;
+The '$Records Storage Request' has already been modified with the above names.&#13;
+ &#13;
+Thanks&#13;
+Raul&#13;
+ </description><inserted/><name>JL - 2015-06-08 - Publication Request Update</name><origin_sys_id/><release_date/><remote_sys_id>1f56c6951ce4cac04601e30db8d3f7e3</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:03:24</sys_created_on><sys_id>bea4d4c9db69db00695e9875db9619da</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:03:24</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
