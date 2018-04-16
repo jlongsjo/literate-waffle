@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:04:59"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>From: Mehta, Heenal &#13;
+Sent: Thursday, January 28, 2016 11:58 AM&#13;
+To: Spitzer, Ian; Vora, Hardik; Longsjo, Jason&#13;
+Cc: Govindan, Sase; Wang, Shuo (Sophie Twu); Shakir, Kamal&#13;
+Subject: Firewall request form - Modifications&#13;
+ &#13;
+Hi Ian,&#13;
+ &#13;
+According the feedbacks we received from the customers, we would like to make some changes in our firewall request form to make it more user friendly.&#13;
+&#13;
+We would like to reframe the second question in the form to –&#13;
+ &#13;
+1. Do you want your server to communicate with the internal / DMZ / internet?&#13;
+2. We would like to add the following sentence – For multiple ports, enter the ports separated by ',' i.e. 80,443,22.</description><inserted/><name>HV - STRY0012562 - Update header text on Firewall Request Form</name><origin_sys_id/><release_date/><remote_sys_id>4277c8de4fd51a0c40f93e1ca310c769</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:04:59</sys_created_on><sys_id>f90558c9db69db00695e9875db961989</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:04:59</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
