@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:05:31"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>Modify the email in the IT Equipment Return request to include this address information in the email users get&#13;
+&#13;
+Can you modify the email in the IT Equipment Return request to include this address information in the email users get? Right before the "IMPORTANT" sections. &#13;
+ &#13;
+Ship To Address:&#13;
+End User Support, 14th Floor&#13;
+545 Washington Blvd. &#13;
+Jersey City, NJ 07310</description><inserted/><name>JL - 2016-11-18 - STRY0014193</name><origin_sys_id/><release_date/><remote_sys_id>4d18252313872640f89f7c004244b0dd</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:05:31</sys_created_on><sys_id>f52598c9db69db00695e9875db96198e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:05:31</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
