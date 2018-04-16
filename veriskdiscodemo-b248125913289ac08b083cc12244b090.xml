@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:10:57"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>From: "Ciano, Joseph" &lt;JCiano@verisk.com&gt;&#13;
+Date: Tuesday, December 22, 2015 at 1:00 PM&#13;
+To: "Longsjo, Jason" &lt;jmlongsjo@verisk.com&gt;, Hardik Vora &lt;hjvora@verisk.com&gt;&#13;
+Cc: "Szmak, Gregory" &lt;GSzmak@verisk.com&gt;, "Cortese, Anthony" &lt;ACortese@verisk.com&gt;&#13;
+Subject: Surveys&#13;
+&#13;
+Good afternoon,&#13;
+ &#13;
+Can we create a new group for our surveys that includes myself Greg and Anthony? Also have the surveys get assigned to that new group?&#13;
+ &#13;
+Name: VA – Support Survey Team&#13;
+ &#13;
+ &#13;
+Joseph Ciano | Service Desk - Help Desk</description><inserted/><name>HV - Create New Survey Group and change assignment</name><origin_sys_id/><release_date/><remote_sys_id>b248125913289ac08b083cc12244b090</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:10:57</sys_created_on><sys_id>dd66d00ddb69db00695e9875db961979</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:10:57</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
