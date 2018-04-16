@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:07:46"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>3.3.1&#13;
+Turn off BR's for HW and SW loads. This is a reversal from 3.3.0&#13;
+Add logic to calculate the display_name of the models.  Prior to 3.3.0, this was done as a calculated field. 3.3.0 this was done using the OOB BR. System too slow running all the BR's, so original logic of the calculated field has been moved to the transform map.&#13;
+Fixed truncate base table bug in the cleanup ui page.&#13;
+&#13;
+3.3.0 &#13;
+Made the data prep button do work in BG (no timeouts)&#13;
+Display name for base model class no longer a calculated field.&#13;
+New cleanup script to delete non-Technopedia models, remove association from licenses and discovery models, and remove discovery models with no supporting SW.&#13;
+Removed package call from onbefore script on sw model.  &#13;
+Turned 'run BRs' on for hw and sw model transform maps.&#13;
+Removed many packages calls (though they were forward compatible before).&#13;
+Modified cf_import_set_util to add fields that are null&#13;
+No longer promoting version from sw model to model&#13;
+&#13;
+3.2.9 changelog&#13;
+Changed number format function in TechnoStatus (ie. 1,234);&#13;
+Removed package calls from BR - Set synch import set (no func change)</description><inserted/><name>Technopedia Catalog 3.3.1</name><origin_sys_id/><release_date/><remote_sys_id>72b32ede3056b1006a2cb74a101c3ac0</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:07:45</sys_created_on><sys_id>aea5dcc9db69db00695e9875db961900</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:07:45</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
