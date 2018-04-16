@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:06:53"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>From: "Ciano, Joseph" &lt;JCiano@verisk.com&gt;&#13;
+Date: Tuesday, December 22, 2015 at 7:04 AM&#13;
+To: "Longsjo, Jason" &lt;jmlongsjo@verisk.com&gt;, Hardik Vora &lt;hjvora@verisk.com&gt;&#13;
+Subject: Distribution List Short Description&#13;
+&#13;
+Good Morning Fella's, &#13;
+ &#13;
+AS we are now taking over DL's administration from Security I noticed that the request item was moved out of the Security Service Catalog into the IT Catalog. Not sure who made the move but I was not told of this and users called asking where the request item is. All in all we were able to find it and I advised the team of the move.&#13;
+ &#13;
+Can we update the short description? Take out Security Support and just leave Distribution List Request? Is this something I can do and if so how? In Service Desk I was able to update items and I'm always willing to help you guys. Thanks!&#13;
+&#13;
+ &#13;
+ &#13;
+Joseph Ciano | Service Desk - Help Desk</description><inserted/><name>HV - Update Distribution List Task Desc</name><origin_sys_id/><release_date/><remote_sys_id>5e955fe413ec92c08b083cc12244b0bf</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:06:53</sys_created_on><sys_id>b1755cc9db69db00695e9875db9619b3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:06:53</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
