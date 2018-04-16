@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:02:46"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>This update set creates a new 'auditor' role in your instance that can be assigned to effectively provide read-only access to records in ServiceNow:
+
+Notes:
+-Read only access is achieved in 2 ways:
+---A global 'list-edit' access control to disable list editing for all tables
+---A global client script to make all form fields read-only, disable form buttons, disable the context menu, and disable related links
+-Faulty client scripts on an existing form can cause the above client script to fail, thus disabling read-only functionality.
+-The 'auditor' role piggy-backs on existing roles to provide visibility to records. It initially inherits the 'itil' role to provide standard process user visibility. Assign additional roles to the 'auditor' role in order to increase visibility.
+-The 'admin' role overrides all created functionality.</description><inserted/><name>Auditor Role v1.2</name><origin_sys_id/><release_date/><remote_sys_id>103b836a4f0cd20040f93e1ca310c789</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:02:46</sys_created_on><sys_id>d98494c9db69db00695e9875db9619d1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:02:46</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
