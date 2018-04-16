@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:07:06"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>Add additional granularity to the general request option to allow for better direction of general request if customer knows the area of which the request should be focused.&#13;
+&#13;
+Could we modify the generic request with a few drop down options so it can be routed to the right team:&#13;
+-	Networking  - 'VA - Network Engineering'&#13;
+-	Monitoring   - 'VA - Mon Automation'&#13;
+-	Storage      - 'VA - Storage Management'&#13;
+-	Backups - 'VA - Storage Management'&#13;
+-	OS Engineering (Windows) WDC - 'VA - WDC Windows Infrastructure Support'      &#13;
+-       OS Engineering (Windows) EDC - 'VA - Operating Systems Windows'&#13;
+-       OS Engineering (Unix) - 'VA - Operating Systems Unix'&#13;
+-	Virtual - 'VA - Virtualization - Infrastructure'&#13;
+-	Data center operations - 'VA - Data Center Operations'&#13;
+-	Help desk                                       (Default)&#13;
+-	Security - 'VA - Security Support'&#13;
+Based on what they select the request can be placed in the corresponding groups' queue. This will help while we build out our full catalog&#13;
+</description><inserted/><name>GD - 2015-10-06 - updateSR - GenericRequest</name><origin_sys_id/><release_date/><remote_sys_id>62cf25754f4b420040f93e1ca310c7c3</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:07:06</sys_created_on><sys_id>f4859cc9db69db00695e9875db96191c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:07:06</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
