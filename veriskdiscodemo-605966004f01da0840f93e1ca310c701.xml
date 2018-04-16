@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:07:00"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>i50234@iso.com: (11:38 AM)&#13;
+hello&#13;
+Limones, Jeffrey C.: (11:38 AM)&#13;
+seeing issue with the new cell phone / mifi device order&#13;
+Limones, Jeffrey C.: (11:39 AM)&#13;
+i think you are referencing an old name for my team &#13;
+Limones, Jeffrey C.: (11:39 AM)&#13;
+OLD - Verisk Health Mobile Phone Team&#13;
+Limones, Jeffrey C.: (11:39 AM)&#13;
+RITM0045339&#13;
+Limones, Jeffrey C.: (11:39 AM)&#13;
+the CATTASK therefore does not get assigned to any group so no one is alerted of the request&#13;
+Limones, Jeffrey C.: (11:39 AM)&#13;
+New name is VH - Mobile Phone Team&#13;
+Vora, Hardik J: (11:40 AM)&#13;
+Ok. let me check&#13;
+</description><inserted/><name>HV - Fix New Cell Phone Group Change</name><origin_sys_id/><release_date/><remote_sys_id>605966004f01da0840f93e1ca310c701</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:07:00</sys_created_on><sys_id>53755cc9db69db00695e9875db9619ba</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:07:00</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
