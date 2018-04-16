@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:04:55"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>Postmaster enables intelligent routing of inbound emails to tasks:&#13;
+&#13;
+-Multiple ordered Email Routing Rules can be configured to determine routing behavior.&#13;
+-Use conditions such as 'Recipient is' or 'Body contains' to route intelligently.&#13;
+-From inbound emails, create records on any task-based table.&#13;
+-Automatically apply a chosen template to any created record.&#13;
+-Configure where the 'subject' and 'body' of the email should be copied.&#13;
+-For Service Catalog order creation, automatically apply a Catalog item and generate the appropriate REQ&gt;RITM hierarchy.&#13;
+-Scripting capability for advanced requirements&#13;
+&#13;
+Notes:&#13;
+-If no matching Email Routing Rules are found, the instance will continue to process existing Inbound actions.&#13;
+-To maintain the original 'To' address when redirecting email from your servers to ServiceNow, be sure 'relay' email messages.</description><inserted/><name>Postmaster Email Routing v1.4</name><origin_sys_id/><release_date/><remote_sys_id>4083cf4d79c431005915ebc7aff5ee96</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:04:55</sys_created_on><sys_id>700558c9db69db00695e9875db961985</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:04:55</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
