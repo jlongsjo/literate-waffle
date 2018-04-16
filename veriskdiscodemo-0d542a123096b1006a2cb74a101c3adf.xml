@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:02:31"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>Changes to 4.3.6:&#13;
+-removed any references to CSV custom delim for the data extract.&#13;
+&#13;
+Changes to 4.3.5:&#13;
+-Copy correlation ids set to false (bug introduced in 4.3.4).&#13;
+-Added flag on the Setup record to indicate if data prep had begun, in progress, or complete.&#13;
+-Small updates to script action for data prep and touch MS script include.&#13;
+-Got rid of csv_sys_id&#13;
+-Change to data extract detect error BR.&#13;
+-Turn off onComplete BR to delete SW records&#13;
+-Added FTP/SFTP options to the setup record.&#13;
+-Added property to choose whether or not to allow the update of a computer record that has no associated asset.&#13;
+-Do not copy correlation_id for items whose base table is not cmdb_ci&#13;
+&#13;
+Changes to 4.3.4:&#13;
+- Ignore computer transform if computer has no asset tied to it.&#13;
+- Audit variables.&#13;
+- Modified discovery model update BR (added .nil() to condition)&#13;
+- Changes the columns listed in the Normalized Computers module list (Normalized view).&#13;
+- Changed BR 'Create Asset on insert' to not call our CF_AssetandCI</description><inserted/><name>TechnopediaNormalize4.3.6</name><origin_sys_id/><release_date/><remote_sys_id>0d542a123096b1006a2cb74a101c3adf</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:02:30</sys_created_on><sys_id>a17494c9db69db00695e9875db961975</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:02:30</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
