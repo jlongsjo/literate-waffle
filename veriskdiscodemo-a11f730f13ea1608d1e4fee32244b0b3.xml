@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:10:15"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>Using a supplied datasheet:&#13;
+&#13;
+Add two fields to server request.  RFS and Project.  Only one is required.&#13;
+&#13;
+Present fixed list for each to be selected.&#13;
+&#13;
+Additional field required is the BU.  This also provided from datasheet and presented as a list.  This is Required regardless of RFP or project entry.&#13;
+&#13;
+&#13;
+Hello Ian,&#13;
+Thank you for spending time on IST Finance's request of making RFS/Project code fields mandatory in the Server Request Form.&#13;
+&#13;
+As per the discussion I had with Vinnie and Dan:&#13;
+•	The RFS file is the data we receive from Finance and may have monthly updates of projects in it.&#13;
+We will make sure that we receive the most updated data from Finance on regular interval and send the same back to you.&#13;
+•	Dan suggested that we should have only one field made mandatory which is RFS code or Project Code, Line of Business (LOB) &amp; Business Unit should not be selected but should populate based on the RFS code/Project code selected by the requestor. That makes sense as our purpose is met (customer checking his selection of Project codes allocating to LoB and BU)&#13;
+•	Can it also be made possible for the requestor's manager to have a look at the request with the above fields prior to approval (double check on requestor's selection)&#13;
+&#13;
+I will send you the mapping file shortly with RFS code/Project code being mapped to LoB and respective Business Unit.&#13;
+&#13;
+Thank you for your feedback.&#13;
+&#13;
+Kind Regards,&#13;
+Meghna Naik&#13;
+201-469-3928&#13;
+</description><inserted/><name>GP - STRY0011882 -Financial Allocation fields on Server Request</name><origin_sys_id/><release_date/><remote_sys_id>a11f730f13ea1608d1e4fee32244b0b3</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:10:14</sys_created_on><sys_id>f636900ddb69db00695e9875db96196c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:10:14</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
