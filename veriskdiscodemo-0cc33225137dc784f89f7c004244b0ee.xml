@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-04-16 16:02:26"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>This update set contains widgets &amp; pages to incorporate reporting functionality in Service Portal which is currently not OOTB available  in ServiceNow.
+
+Widgets:
+1) Report List
+2) Report Form
+
+Pages:
+1) Reports Form
+2) Reports Show All
+
+Please load and committ this update set and you are done.
+</description><inserted/><name>SP Reports List &amp; Form</name><origin_sys_id/><release_date/><remote_sys_id>0cc33225137dc784f89f7c004244b0ee</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>guest</sys_created_by><sys_created_on>2018-04-16 16:02:26</sys_created_on><sys_id>2c7494c9db69db00695e9875db961971</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>guest</sys_updated_by><sys_updated_on>2018-04-16 16:02:26</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
